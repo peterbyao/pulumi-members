@@ -1,5 +1,0 @@
-config:
-  aws-member:db_password:
-    secure: AAABAGQV6MyfPRMGmuZq9Ce7Bjs3Me0qkK6H46NskJVaujfdv/MZ8dVejOsKKw==
-  aws-member:db_username: admin
-  aws:region: us-east-2
